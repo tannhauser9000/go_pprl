@@ -1,0 +1,7 @@
+{
+  "prefix": "dataset",
+  "dataset": "test_1_million_1.csv,test_1_million_2.csv",
+  "num_field": 14,
+  "ignore": "0,13",
+  "size": "1010000,1000000"
+}

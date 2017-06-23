@@ -1,0 +1,7 @@
+#!/bin/bash
+
+TGT=go_pprl
+
+export GOPATH=`pwd`
+env GOOS=darwin GOARCH=amd64 go build -v -ldflags "-s" $TGT
+
